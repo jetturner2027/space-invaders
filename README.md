@@ -2,6 +2,14 @@
 
 A Space Invaders clone built in Java. Based on the original 1978 arcade edition of the classic game. Includes leaderboard that saves between launches, full gameplay in a Draw window.
 
+![screenshot](Gameplay Screenshot.png)
+
+## How to Play
+
+- Press SPACE to Fire
+- Move Left and Right using the arrow keys
+
+
 ## How to Run
 
 Download the latest release and run:
